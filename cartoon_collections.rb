@@ -14,5 +14,5 @@ end
 
 def find_the_cheese(gus)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  gus. { |
+  gus.include? { |cheese| cheese 
 end
